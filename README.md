@@ -66,17 +66,6 @@ Nutritional deficiencies in coffee plants often go unnoticed, overshadowed by mo
 
 ---
 
-## 📂 Structure
-
-- 📁 data/           # Coffee leaf images
-- 📁 notebooks/      # Model training and evaluation
-- 📁 models/         # Saved model weights
-- 📁 results/        # Accuracy, loss plots, confusion matrices
-- README.md          # You're here!
-
-
----
-
 ## 💡 Future Work
 
 - Address dataset imbalance with advanced augmentation or sampling.
